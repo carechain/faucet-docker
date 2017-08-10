@@ -13,6 +13,8 @@ RUN \
 
 ADD start.sh /
 
+VOLUME /config
+
 EXPOSE 8080
 
 CMD ["/bin/sh", "/start.sh"]
