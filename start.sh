@@ -9,8 +9,8 @@
     --ethport 30303 \
     --faucet.name CareChainTestnet \
     --faucet.amount 1 \
-    --faucet.minutes 1 \
-    --faucet.tiers 1 \
+    --faucet.minutes 10 \
+    --faucet.tiers 3 \
     --github.user andersbohlin \
     --github.token 847aafd8306d41c201197d64cec7f1cb286d2c1a \
     --account.json /config/funder.json \
